@@ -1,2 +1,3 @@
 Read Me file for practice_7-17
-Adding some text to the README file
+This line was deleted and changed from the editor. 
+Third line added in the branch branch_practice
